@@ -156,3 +156,7 @@ This project demonstrates the complete Business Intelligence workflow, including
 * Dashboard Development
 
 * Power BI Visualization
+
+## Author
+Chanchal Vijay Bhangale  
+B.Tech – Computer Science & Engineering
