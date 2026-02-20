@@ -84,6 +84,7 @@ This project demonstrates the complete Business Intelligence workflow, including
 
 ## 📈Dashboard Visualizations
 
+
 #### The dashboard consists of:
 
 * Donut Chart → Sales by Fat Content
@@ -127,8 +128,6 @@ This project demonstrates the complete Business Intelligence workflow, including
 * User-friendly visualization design
 
 * Real-world retail analytics use case
-
-## 📸Dashboard Preview
 
 ## 🚀Project Workflow
 
