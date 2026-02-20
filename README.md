@@ -80,3 +80,80 @@ This project demonstrates the complete Business Intelligence workflow, including
 ✅ Number of Items Sold
 
 ✅ Average Customer Rating
+
+
+## 📈Dashboard Visualizations
+
+#### The dashboard consists of:
+
+* Donut Chart → Sales by Fat Content
+
+* Bar Chart → Sales by Item Type
+
+* Line Chart → Outlet Establishment Trend
+
+* Funnel Chart → Sales by Outlet Location
+
+* Bar Chart → Sales by Outlet Size
+
+* Matrix Table → Detailed Item Performance Analysis
+
+#### Interactive slicers allow dynamic filtering by:
+
+* Outlet Location
+
+* Outlet Size
+
+* Item Type
+
+## Key Insights Generated
+
+* Identified high-revenue product categories
+
+* Compared outlet performance across locations
+
+* Observed sales trends based on establishment year
+
+* Analyzed customer preferences using rating patterns
+
+## Dashboard Features
+
+* Interactive filtering and slicers
+
+* Clean and professional layout
+
+* Business-focused KPI cards
+
+* User-friendly visualization design
+
+* Real-world retail analytics use case
+
+## 📸Dashboard Preview
+
+## 🚀Project Workflow
+
+* Data Import into Power BI
+
+* Data Cleaning using Power Query
+
+* Data Modeling
+
+* DAX Measure Creation
+
+* Visualization Development
+
+* Dashboard Design & Formatting
+
+* Insight Generation
+
+## ⭐Project Purpose
+
+#### This project was created to strengthen practical skills in:
+
+* Data Analysis
+
+* Business Intelligence
+
+* Dashboard Development
+
+* Power BI Visualization
