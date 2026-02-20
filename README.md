@@ -33,4 +33,50 @@ This project demonstrates the complete Business Intelligence workflow, including
 
 * Data Modeling
 
-Data Visualization Techniques
+* Data Visualization Techniques
+
+## Dataset Information
+
+#### The dataset contains retail grocery sales information including:
+
+* Item details
+
+* Fat content
+
+* Item category
+
+* Outlet type and size
+
+* Outlet location
+
+* Establishment year
+
+* Sales amount
+
+* Customer ratings
+
+## Data Cleaning & Transformation
+
+* Performed using Power Query:
+
+* Handled missing and null values
+
+* Standardized categorical values (e.g., Low Fat / Regular)
+
+* Corrected data types
+
+* Removed inconsistencies
+
+* Prepared data for analysis and reporting
+
+## Key Performance Indicators (KPIs)
+
+#### The dashboard includes the following business metrics:
+
+✅ Total Sales
+
+✅ Average Sales
+
+✅ Number of Items Sold
+
+✅ Average Customer Rating
