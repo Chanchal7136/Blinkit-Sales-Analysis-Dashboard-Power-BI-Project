@@ -160,3 +160,8 @@ This project demonstrates the complete Business Intelligence workflow, including
 ## Author
 Chanchal Vijay Bhangale  
 B.Tech – Computer Science & Engineering
+
+## Contact
+LinkedIn: (https://www.linkedin.com/in/chanchal-bhangale-623812322/)  
+Email: (chanchalbhangale83@gmail.com)
+
